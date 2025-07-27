@@ -1,3 +1,3 @@
-python-telegram-bot==13.7  # Nome corretto del pacchetto
+pyTelegramBotAPI==4.12.0  # Ultima versione stabile del fork
 Flask==2.3.2
 python-dotenv==1.0.0
